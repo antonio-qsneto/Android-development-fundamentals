@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Create a log mensage
+        // Create a log mensage for test branch
         Log.d("MainActivity", "Hello World");
 
     }
